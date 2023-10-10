@@ -10,15 +10,14 @@ const Nav = () => {
   const [active, makeActive] = useState('#')
   return (
     <nav>
-      <a
-        href="javascript:void(0);"
+      <button
         className={active === '#' ? 'active' : ''}
         onClick={() => {
           makeActive('#')
         }}
       >
         <FiHome />
-      </a>
+      </button>
       <a
         href="#about"
         className={active === 'about' ? 'active' : ''}
