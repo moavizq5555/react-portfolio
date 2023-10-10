@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e7a886b9.css",
+    "main.js": "/static/js/main.c97878c7.js",
+    "static/media/port5.png": "/static/media/port5.4ca58774c204a985eeb9.png",
+    "static/media/port2.png": "/static/media/port2.b7e0cd018d40759e1bbf.png",
+    "static/media/me1.png": "/static/media/me1.edbaddcd7dd6e24c31bf.png",
+    "static/media/MoavizResume.pdf": "/static/media/MoavizResume.06ea2a2c973ca28a1acb.pdf",
+    "static/media/port4.jpg": "/static/media/port4.3a439e86d13e62218823.jpg",
+    "static/media/me2.jpg": "/static/media/me2.8d906d133bb88f581ac1.jpg",
+    "static/media/port7.jpg": "/static/media/port7.e62d3f6b8f5545ae4568.jpg",
+    "static/media/port3.jpg": "/static/media/port3.b8f7d532156fd6f08814.jpg",
+    "static/media/port6.jpg": "/static/media/port6.79831895f5feefdd3270.jpg",
+    "static/media/avat2.jpg": "/static/media/avat2.2f97fca9223df563079c.jpg",
+    "index.html": "/index.html",
+    "main.e7a886b9.css.map": "/static/css/main.e7a886b9.css.map",
+    "main.c97878c7.js.map": "/static/js/main.c97878c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e7a886b9.css",
+    "static/js/main.c97878c7.js"
+  ]
+}
